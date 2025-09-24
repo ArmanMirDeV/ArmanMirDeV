@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **React, JavaScript, and Fullstack projects**
 - 🌱 I’m currently learning **Next.js and TypeScript**
 - 💬 Ask me about **JavaScript, React, or Web Development**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Email](mailto:your.email@example.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Email](mirarman85583@gmail.com)
 - ⚡ Fun fact: I love coding with music in the background 🎵
 
 ---
@@ -31,7 +31,7 @@
 ---
 
 ## 🔥 Activity Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=ArmanMirDev&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=ArmanMirDeV&theme=radical)
 
 ---
 
