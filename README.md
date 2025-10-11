@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **React, JavaScript, and Fullstack projects**
 - 🌱 I’m currently learning **Next.js and TypeScript**
 - 💬 Ask me about **JavaScript, React, or Web Development**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Email](mailto:your.email@example.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Email](mailto:mirarman8583@gmail.com)
 - ⚡ Fun fact: I love coding with music in the background 🎵
 
 ---
@@ -24,14 +24,14 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArmanMirDeV&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanMirDeV&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ## 🔥 Activity Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=YourUsername&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=ArmanMirDeV&theme=radical)
 
 ---
 
@@ -45,12 +45,12 @@
 
 ## ⚡ Fun Animations
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+World!+I'm+AL+SAIDUL+ARMAN+MIR;Fullstack+Developer;React+Enthusiast&font=Fira+Code&center=true&width=500&height=50)
-![Rainbow](https://raw.githubusercontent.com/YourUsername/YourUsername/main/assets/rainbow.gif)
+![Rainbow](https://raw.githubusercontent.com/ArmanMirDeV/YourUsername/main/assets/rainbow.gif)
 
 ---
 
 ## 📊 GitHub Contribution Graph
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=YourUsername&theme=react-dark&hide_border=true)
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?ArmanMirDeV=YourUsername&theme=react-dark&hide_border=true)
 
 ---
 
