@@ -50,7 +50,7 @@
 ---
 
 ## 📊 GitHub Contribution Graph
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?ArmanMirDeV=YourUsername&theme=react-dark&hide_border=true)
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?ArmanMirDeV=ArmanMirDeV&theme=react-dark&hide_border=true)
 
 ---
 
