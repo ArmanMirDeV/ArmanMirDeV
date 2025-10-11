@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **React, JavaScript, and Fullstack projects**
 - 🌱 I’m currently learning **Next.js and TypeScript**
 - 💬 Ask me about **JavaScript, React, or Web Development**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Email](mailto:mirarman8583@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/a-s-arman-mir-7578a6213) | [Email](mailto:mirarman8583@gmail.com)
 - ⚡ Fun fact: I love coding with music in the background 🎵
 
 ---
@@ -36,21 +36,21 @@
 ---
 
 ## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-4B0082?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-s-arman-mir-7578a6213)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/yourhandle](https://x.com/ASArmanMir45074))
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arman_mir_8583/)
+
 
 ---
 
 ## ⚡ Fun Animations
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+World!+I'm+AL+SAIDUL+ARMAN+MIR;Fullstack+Developer;React+Enthusiast&font=Fira+Code&center=true&width=500&height=50)
-![Rainbow](https://raw.githubusercontent.com/ArmanMirDeV/YourUsername/main/assets/rainbow.gif)
+![Rainbow](https://raw.githubusercontent.com/ArmanMirDeV/ArmanMirDeV/main/assets/rainbow.gif)
 
 ---
 
 ## 📊 GitHub Contribution Graph
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?ArmanMirDeV=ArmanMirDeV&theme=react-dark&hide_border=true)
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=ArmanMirDeV&theme=react-dark&hide_border=true)
 
 ---
 
