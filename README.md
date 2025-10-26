@@ -49,7 +49,7 @@
 
 ## 🏗 Featured Projects  
 <p align="center">
-  <a href="https://urbanarcade.netlify.app/"><img src="https://img.shields.io/badge/-🎮%20Urban%20Arcade-ff0066?style=for-the-badge" /></a>
+  <a href="[https://urbanarcade.netlify.app/](https://urban-arcade-mir-dev.netlify.app/)"><img src="https://img.shields.io/badge/-🎮%20Urban%20Arcade-ff0066?style=for-the-badge" /></a>
   <a href="#"><img src="https://img.shields.io/badge/-🌐%20Next.js%20Portfolio-000000?style=for-the-badge" /></a>
   <a href="#"><img src="https://img.shields.io/badge/-📝%20MERN%20Blog-00C853?style=for-the-badge" /></a>
 </p>
