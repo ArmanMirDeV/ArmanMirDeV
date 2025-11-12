@@ -9,11 +9,12 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🔭 Currently working on **React, JavaScript, and Fullstack projects**  
-- 🌱 Deepening my skills in **Next.js**, **TypeScript**, and **API development**  
-- 💬 Ask me about **React**, **JavaScript**, **Firebase**, or **Web Development**  
-- 💼 Always open to collaboration on **creative web projects**  
-- 🎧 Fun fact: I code best with **lo-fi beats** in the background!  
+- 🔭 Currently building **MERN fullstack projects** with **REST APIs** and **Firebase authentication**  
+- 🌱 Learning and applying **Next.js**, **TypeScript**, and **advanced backend integrations**  
+- ⚙️ Passionate about creating **modern, responsive, and user-friendly UIs**  
+- 💬 Ask me about **React**, **JavaScript**, **Express**, **MongoDB**, or **Firebase**  
+- 💼 Open to collaboration on **innovative and impactful web projects**  
+- 🎧 Fun fact: I code best with **lo-fi beats** and a cup of coffee ☕  
 - 🌐 Portfolio: *Coming Soon...*
 
 ---
@@ -29,8 +30,10 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=swagger&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-ff0055?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
@@ -40,16 +43,17 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-ff9800?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer%20Motion-ff0055?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fullstack%20MERN%20Projects-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Fullstack%20MERN%20Apps-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Responsive%20Design-00BFA6?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20Deployment-4285F4?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ---
 
 ## 🏗 Featured Projects  
 <p align="center">
-  <a href="[https://urbanarcade.netlify.app/](https://urban-arcade-mir-dev.netlify.app/)"><img src="https://img.shields.io/badge/-🎮%20Urban%20Arcade-ff0066?style=for-the-badge" /></a>
+  <a href="https://urban-arcade-mir-dev.netlify.app/"><img src="https://img.shields.io/badge/-🎮%20Urban%20Arcade-ff0066?style=for-the-badge" /></a>
   <a href="#"><img src="https://img.shields.io/badge/-🌐%20Next.js%20Portfolio-000000?style=for-the-badge" /></a>
   <a href="#"><img src="https://img.shields.io/badge/-📝%20MERN%20Blog-00C853?style=for-the-badge" /></a>
 </p>
@@ -126,9 +130,10 @@
 
 ---
 
-### 💬 Quote  
+### 💬 Quotes I Live By  
 > “Code is like humor. When you have to explain it, it’s bad.” – *Cory House*  
-> “The best error message is the one that never shows up.” – *Thomas Fuchs*
+> “The best error message is the one that never shows up.” – *Thomas Fuchs*  
+> “Learn continuously. There’s always one more bug to fix, one more skill to master.” – *Anonymous*
 
 ---
 
