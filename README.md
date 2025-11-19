@@ -1,10 +1,16 @@
-# 👋 Hi there, I'm **AL SAIDUL ARMAN MIR**
+#  Hi there, I'm **AL SAIDUL ARMAN MIR**
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome+to+My+GitHub!&fontSize=40&fontAlignY=35&fontColor=ffffff)
 
+
+![Banner](https://i.ibb.co.com/fdYjbfzf/github-Banner.png)
+
+
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ArmanMirDeV&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://i.ibb.co/fdYjbfzf/github-Banner.png" alt="Banner" width="1000" />
 </p>
+
 
 ---
 
