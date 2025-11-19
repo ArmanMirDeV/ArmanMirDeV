@@ -15,6 +15,7 @@
 ---
 
 ## 👨‍💻 About Me  
+- a passionate MERN Stack Developer who loves creating modern, responsive, and user-friendly web applications. I specialize in building full-stack projects using React, Node.js, Express, MongoDB, and styling with TailwindCSS and DaisyUI.
 - 🔭 Currently building **MERN fullstack projects** with **REST APIs** and **Firebase authentication**  
 - 🌱 Learning and applying **Next.js**, **TypeScript**, and **advanced backend integrations**  
 - ⚙️ Passionate about creating **modern, responsive, and user-friendly UIs**  
