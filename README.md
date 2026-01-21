@@ -21,7 +21,10 @@
 - ⚙️ Passionate about creating **modern, responsive, and user-friendly UIs**  
 - 💬 Ask me about **React**, **JavaScript**, **Express**, **MongoDB**, or **Firebase**  
 - 💼 Open to collaboration on **innovative and impactful web projects**  
-- 🌐 Portfolio: *Coming Soon...*
+- 🌐 Portfolio: <a href="https://al-saidul-arman-mir.netlify.app/" target="_blank">
+  https://al-saidul-arman-mir.netlify.app/
+</a>
+
 
 ---
 
