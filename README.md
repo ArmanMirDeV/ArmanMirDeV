@@ -1,151 +1,142 @@
-#  Hi there, I'm **AL SAIDUL ARMAN MIR**
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome+to+My+GitHub!&fontSize=40&fontAlignY=35&fontColor=ffffff)
-
-
-
-
-
+# 👋 Hi, I'm **AL SAIDUL ARMAN MIR**
+### 🚀 Full-Stack MERN & Next.js Developer | UI Craftsman | Problem Solver
 
 <p align="center">
-  <img src="https://i.ibb.co/fdYjbfzf/github-Banner.png" alt="Banner" width="1000" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=42&fontAlignY=35&fontColor=ffffff" />
 </p>
 
-
----
-
-## 👨‍💻 About Me  
-- A passionate MERN Stack Developer who loves creating modern, responsive, and user-friendly web applications. I specialize in building full-stack projects using React, Node.js, Express, MongoDB, and styling with TailwindCSS and DaisyUI.
-- 🔭 Currently building **MERN fullstack projects** with **REST APIs** and **Firebase authentication**  
-- 🌱 Learning and applying **Next.js**, **TypeScript**, and **advanced backend integrations**  
-- ⚙️ Passionate about creating **modern, responsive, and user-friendly UIs**  
-- 💬 Ask me about **React**, **JavaScript**, **Express**, **MongoDB**, or **Firebase**  
-- 💼 Open to collaboration on **innovative and impactful web projects**  
-- 🌐 Portfolio: <a href="https://al-saidul-arman-mir.netlify.app/" target="_blank">
-  https://al-saidul-arman-mir.netlify.app/
-</a>
-
-
----
-
-## 🧠 What I’ve Learned So Far  
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=swagger&logoColor=white" />
-    <img src="https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
- <img src="https://img.shields.io/badge/Responsive%20Design-00BFA6?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud%20Deployment-4285F4?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer%20Motion-ff0055?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://i.ibb.co/fdYjbfzf/github-Banner.png" width="1000" />
 </p>
 
 ---
 
-## 🚀 Currently Exploring & Building  
+## 🧑‍💻 About Me
+
+I’m a **passionate Full-Stack Developer** focused on building **scalable, secure, and visually polished web applications**.  
+I enjoy combining **clean backend architecture** with **modern, accessible UI/UX**.
+
+- 🔭 Building **production-ready MERN & Next.js applications**
+- 🔐 Implementing **authentication, validation & secure APIs**
+- 🌱 Learning **advanced Next.js, TypeScript patterns & system design**
+- 🎨 Love crafting **pixel-perfect, responsive UIs**
+- 💬 Ask me about **React, Next.js, TypeScript, Node.js**
+- 🤝 Open to **remote jobs, freelance & collaborations**
+
+🌐 **Portfolio:**  
+👉 https://al-saidul-arman-mir.netlify.app
+
+---
+
+## 🛠 Tech Stack & Tools
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fullstack%20MERN%20Apps-4CAF50?style=for-the-badge" />
- 
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,tailwind,git,github,vite,vercel,figma,vscode" />
+</p>
+
+### ⚙️ Core Technologies
+- **Frontend:** React, **Next.js**, TypeScript, TailwindCSS, **shadcn/ui**, Framer Motion  
+- **Backend:** Node.js, Express.js, REST APIs  
+- **Validation:** **Zod**  
+- **Database:** MongoDB  
+- **Authentication:** Firebase Auth  
+- **Dev Tools:** Git, GitHub, VS Code  
+- **Deployment:** Vercel, Netlify  
+
+---
+
+## 🚀 Currently Exploring
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js%20App%20Router-black?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/TypeScript%20Advanced-007ACC?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/Zod%20Validation-3E67B1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge" />
 </p>
 
 ---
 
-## 🏗 Featured Projects  
-<p align="center">
-  <a href="https://kajwala.netlify.app/"><img src="https://img.shields.io/badge/-%20Kaj%20Wala-ff01066?style=for-the-badge" /></a>
-  <a href="https://urban-arcade-mir-dev.netlify.app/"><img src="https://img.shields.io/badge/-🎮%20Urban%20Arcade-ff0066?style=for-the-badge" /></a>
-  <a href="https://appora-io-as-mir.netlify.app/"><img src="https://img.shields.io/badge/-%20Appora.%20io-ff209866?style=for-the-badge" /></a>
+## 🏗 Featured Projects
 
+<p align="center">
+  <a href="https://kajwala.netlify.app/">
+    <img src="https://img.shields.io/badge/💼%20Kaj%20Wala-ff0066?style=for-the-badge" />
+  </a>
+  <a href="https://urban-arcade-mir-dev.netlify.app/">
+    <img src="https://img.shields.io/badge/🎮%20Urban%20Arcade-8E2DE2?style=for-the-badge" />
+  </a>
+  <a href="https://appora-io-as-mir.netlify.app/">
+    <img src="https://img.shields.io/badge/🚀%20Appora.io-00C9FF?style=for-the-badge" />
+  </a>
 </p>
 
 ---
 
-## 📈 GitHub Stats  
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArmanMirDeV&show_icons=true&theme=radical&border_radius=10" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanMirDeV&layout=compact&theme=radical&border_radius=10" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArmanMirDeV&show_icons=true&theme=radical&hide_border=true&border_radius=14" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanMirDeV&layout=compact&theme=radical&hide_border=true&border_radius=14" height="170" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies  
+## 🏆 Achievements
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ArmanMirDeV&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak  
+## 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ArmanMirDeV&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ArmanMirDeV&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## 💡 Random Dev Quote  
+## 🎧 Spotify — Now Playing
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31wjkmqu5jytrq6g2vkn4wh62whi&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117" />
 </p>
 
 ---
 
-## 🎧 Spotify Now Playing  
+## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31wjkmqu5jytrq6g2vkn4wh62whi&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" />
+  <img src="https://github.com/ArmanMirDeV/ArmanMirDeV/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 🧩 Contribution Graph Snake  
-<p align="center">
-  <img src="https://github.com/ArmanMirDeV/ArmanMirDeV/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
+## 🌐 Connect With Me
 
----
-
-## 🌐 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/a-s-arman-mir-7578a6213">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/ASArmanMir45074">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/arman_mir_8583/">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:mirarman8583@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## ✨ Fun Animations  
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hey+there!+I'm+Arman+Mir!;Fullstack+Developer;React+Enthusiast;Creative+Problem+Solver;Lifelong+Learner!&font=Fira+Code&center=true&width=500&height=50" alt="Typing Animation" />
-  <br/>
-  <img src="https://raw.githubusercontent.com/ArmanMirDeV/ArmanMirDeV/main/assets/rainbow.gif" width="400" />
-</p>
+## ✨ Dev Philosophy
 
----
-
-### 💬 Quotes I Live By  
 > “Code is like humor. When you have to explain it, it’s bad.” – *Cory House*  
-> “The best error message is the one that never shows up.” – *Thomas Fuchs*  
-> “Learn continuously. There’s always one more bug to fix, one more skill to master.” – *Anonymous*
+> “Make it work. Make it right. Make it fast.”
 
----
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+</p>
