@@ -108,7 +108,7 @@ I enjoy combining **clean backend architecture** with **modern, accessible UI/UX
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/ArmanMirDeV/ArmanMirDeV/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ArmanMirDeV/ArmanMirDeV/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
