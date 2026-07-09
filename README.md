@@ -119,10 +119,10 @@ Fun Fact:
 |------------|-------------|
 | 🎨 Frontend | HTML5, CSS3, JavaScript, TypeScript, React.js, Next.js |
 | ⚙ Backend | Node.js, Express.js |
-| 🗄 Database | MongoDB |
-| 🎭 UI Libraries | Tailwind CSS, shadcn/ui, Framer Motion |
-| 🔥 Validation | Zod |
-| 🔐 Authentication | Firebase Authentication |
+| 🗄 Database | MongoDB, NeonDB |
+| 🎭 UI Libraries | Tailwind CSS, shadcn/ui, Framer Motion, React UI Libraries |
+| 🔥 Validation | Zod, React Hook Form |
+| 🔐 Authentication | Firebase Authentication, Auth0 |
 | 📦 State Management | React Hooks, Context API |
 | 🌍 APIs | REST API |
 | 🚀 Deployment | Vercel, Netlify |
@@ -178,15 +178,18 @@ const arman = {
     ],
 
     database: [
-        "MongoDB"
+        "MongoDB",
+        "NeonDB"
     ],
 
     authentication: [
-        "Firebase Auth"
+        "Firebase Auth",
+          "Auth0"
     ],
 
     validation: [
-        "Zod"
+        "Zod",
+        "React Hook Form"
     ],
 
     deployment: [
